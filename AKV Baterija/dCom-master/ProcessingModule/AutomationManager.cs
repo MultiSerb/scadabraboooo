@@ -98,7 +98,8 @@ namespace ProcessingModule
 				//	continue;
     //            }
 
-				if (points[5].Alarm == AlarmType.LOW_ALARM)
+				if (points[5].Alarm == AlarmType.LOW_ALARM)//Ukoliko K (Kapacitet baterije) padne ispod LowAlarm vrednosti, prijaviti LowAlarm i isključiti I4
+					//(utičnica)i T5(USB C) pošto troše najviše struje i uključiti napajanje I2 i I1 da bi se baterija napunil
 				{
                     // iskljuci t4
                     processingManager.ExecuteWriteCommand(points[3].ConfigItem, configuration.GetTransactionId(), configuration.UnitAddress, 5003, 0);
@@ -115,8 +116,10 @@ namespace ProcessingModule
 
                 }
 
-				if (points[5].RawValue >= points[5].ConfigItem.EGU_Max)
-                {
+				if (points[5].RawValue >= points[5].ConfigItem.EGU_Max)//Ukoliko K (Kapacitet baterije) dostigne EguMax vrednost, iskljčiti napajanje koje ga je do tad
+					//punilo(I1 ili I2, moguće i oba da su ga punila pa treba isključiti oba).
+
+				{
 					// iskljuci i1
                     processingManager.ExecuteWriteCommand(points[6].ConfigItem, configuration.GetTransactionId(), configuration.UnitAddress, 4000, 0);
                     // iskljuci i2

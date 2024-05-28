@@ -183,3 +183,29 @@ C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\dCom\o
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\dCom\bin\Debug\dCom.exe.config
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\dCom\bin\Debug\dCom.pdb
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\dCom\obj\Debug\dCom.csproj.CopyComplete
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\bin\Debug\RtuCfg.txt
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\bin\Debug\dCom.exe.config
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\bin\Debug\dCom.exe
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\bin\Debug\dCom.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\bin\Debug\Common.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\bin\Debug\Modbus.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\bin\Debug\ProcessingModule.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\bin\Debug\Common.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\bin\Debug\Modbus.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\bin\Debug\ProcessingModule.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\dCom.csprojAssemblyReference.cache
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\ControlWindow.g.cs
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\MainWindow.g.cs
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\App.g.cs
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\dCom_MarkupCompile.cache
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\dCom_MarkupCompile.lref
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\ControlWindow.baml
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\MainWindow.baml
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\dCom.g.resources
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\dCom.Properties.Resources.resources
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\dCom.csproj.GenerateResource.cache
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\dCom.csproj.CoreCompileInputs.cache
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\dCom.csproj.CopyComplete
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\dCom.exe
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\dCom\obj\Debug\dCom.pdb

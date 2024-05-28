@@ -39,3 +39,9 @@ C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Common
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Common\obj\Debug\Common.dll
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Common\obj\Debug\Common.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Common\bin\Debug\Common.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Common\bin\Debug\Common.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Common\obj\Debug\Common.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Common\obj\Debug\Common.pdb

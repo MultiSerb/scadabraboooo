@@ -79,7 +79,8 @@ namespace ProcessingModule
                 // pretvaranje u ing jedinice 
                 fuel_value = (int)egu.ConvertToEGU(points[0].ConfigItem.ScaleFactor, points[0].ConfigItem.Deviation, points[0].RawValue);
 
-                if (points[4].RawValue == 0)
+                if (points[4].RawValue == 0)//Korisnik može ručno da upravlja ventilom V1 otvaranjem/zatvaranjem. Pri otvaranju/zatvaranju ventila
+                   // simulirati punjenje rezervoara.
                 {
                     processingManager.ExecuteWriteCommand(points[1].ConfigItem, configuration.GetTransactionId(), configuration.UnitAddress,pump01.Address, 0);
                     processingManager.ExecuteWriteCommand(points[2].ConfigItem, configuration.GetTransactionId(), configuration.UnitAddress, pump02.Address, 0);
@@ -87,6 +88,10 @@ namespace ProcessingModule
                     fuel_value += 10; 
                 }
 
+
+
+                //Korisnik može ručno da upravlja pumpama uključenjem/isključenjem. Po uključenju/isključenju pumpe
+               // simulirati promenu nivoa vode u rezervoaru(pisanjem analognog izlaza na adresi 1000) uvažavajući snage pumpi, u skladu sa postavkom zadatka
                 if (points[1].RawValue == 1 )
                 {
                     processingManager.ExecuteWriteCommand(points[4].ConfigItem, configuration.GetTransactionId(), configuration.UnitAddress, V1.Address, 1);
@@ -107,6 +112,8 @@ namespace ProcessingModule
                     fuel_value -= 3;
                 }
 
+                //Onemogućiti otvaranje ventila dok radi bilo koja od pumpi.
+                //Onemogućiti uključivanje pumpi dok je ventil otvoren.j
                 if (points[4].RawValue == 0 && fuel_value >= 990)
                 {
                     fuel_value = 1000;

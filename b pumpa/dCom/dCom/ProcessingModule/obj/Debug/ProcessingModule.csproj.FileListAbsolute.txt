@@ -60,3 +60,12 @@ C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Proces
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CopyComplete
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\ProcessingModule\obj\Debug\ProcessingModule.dll
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\ProcessingModule\obj\Debug\ProcessingModule.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\ProcessingModule\bin\Debug\ProcessingModule.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\ProcessingModule\bin\Debug\ProcessingModule.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\ProcessingModule\bin\Debug\Common.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\ProcessingModule\bin\Debug\Common.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\ProcessingModule\obj\Debug\ProcessingModule.csprojAssemblyReference.cache
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CoreCompileInputs.cache
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CopyComplete
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\ProcessingModule\obj\Debug\ProcessingModule.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\ProcessingModule\obj\Debug\ProcessingModule.pdb

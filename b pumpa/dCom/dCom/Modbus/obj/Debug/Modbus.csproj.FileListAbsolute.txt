@@ -52,3 +52,12 @@ C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\obj\Debug\Modbus.dll
 \\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\obj\Debug\Modbus.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Modbus\bin\Debug\Modbus.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Modbus\bin\Debug\Modbus.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Modbus\bin\Debug\Common.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Modbus\bin\Debug\Common.pdb
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Modbus\obj\Debug\Modbus.csprojAssemblyReference.cache
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Modbus\obj\Debug\Modbus.dll
+D:\preuzmi\scadabraboooo\b pumpa\dCom\dCom\Modbus\obj\Debug\Modbus.pdb
