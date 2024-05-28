@@ -1,0 +1,27 @@
+*************rtucfg.txt***********
+
+STA 15       ******rtu slave adresa
+TCP 25252    ******tcp trasportni protokol
+
+DBC 1 ***Delay Between Commands?
+
+
+**prema tabeli hr-aanlogni izlaz,di-digitalni ulaz,do-digitalni izlaz,IN_REG-analogni ulaz
+HR_INT 1 1000 0 0 700 400 AO @Kapija 1 1 0 0 700  # 20 600 #
+DI_REG 1 2000 0 0   1   0 DI @IndPrep 1 # # # # 1 # # #
+DO_REG 2 3000 0 0   1   0 DO @OpeCls 1 # # # # 1 # # #
+**staje brportova adresa pozzareza(0) min(0) max(1/max) pocvred tip @opis uvek isto????
+**ima tekst ovo posle @ period faktor odstuanje min max	abnormal llimit hlimit
+**Ako signal nema vr nekog parametra napisati #
+
+***configitem.cs meni izgleda ko da je uvek isto
+
+*****alarmprocesor.cs uvek isto ako predje max oglasi alarm lagano
+
+*****eguconverter.cs ono u zadatku a*raw+b i to bi reko da je uvek isto vrv moze varirati malo
+
+***procesingmanager.cs ima 3 reda ona ideju namam sta rade valjda povezuju alarm samo
+
+***autmaticmanager.cs prekrstis se 
+
+
