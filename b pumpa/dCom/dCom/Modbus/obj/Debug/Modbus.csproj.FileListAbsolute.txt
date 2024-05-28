@@ -1,0 +1,54 @@
+C:\Users\dusan\OneDrive\Desktop\scada_mat\scada materijali\dCom\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\dusan\OneDrive\Desktop\scada_mat\scada materijali\dCom\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\dusan\OneDrive\Desktop\scada_mat\scada materijali\dCom\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\dusan\OneDrive\Desktop\scada_mat\scada materijali\dCom\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\dusan\OneDrive\Desktop\scada_mat\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\dusan\OneDrive\Desktop\scada_mat\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\dusan\OneDrive\Desktop\scada_mat\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\dusan\OneDrive\Desktop\scada_mat\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\dusan\OneDrive\Desktop\scada_mat\scada materijali\dCom\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\dusan\OneDrive\Desktop\scada_project\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi-main\Akviziciono-upravljacki-sistemi-main\dCom\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi-main\Akviziciono-upravljacki-sistemi-main\dCom\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi-main\Akviziciono-upravljacki-sistemi-main\dCom\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi-main\Akviziciono-upravljacki-sistemi-main\dCom\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi-main\Akviziciono-upravljacki-sistemi-main\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi-main\Akviziciono-upravljacki-sistemi-main\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi-main\Akviziciono-upravljacki-sistemi-main\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi-main\Akviziciono-upravljacki-sistemi-main\dCom\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi-main\Akviziciono-upravljacki-sistemi-main\dCom\dCom\Modbus\obj\Debug\Modbus.pdb
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\dusan\OneDrive\Desktop\Akviziciono-upravljacki-sistemi\dCom\dCom\Modbus\obj\Debug\Modbus.pdb
+\\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\bin\Debug\Modbus.dll
+\\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\bin\Debug\Modbus.pdb
+\\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\bin\Debug\Common.dll
+\\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\bin\Debug\Common.pdb
+\\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+\\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\obj\Debug\Modbus.dll
+\\Mac\Home\Desktop\scada\Akviziciono-Upravljacki-Sistemi-Projekat2\dCom\dCom\Modbus\obj\Debug\Modbus.pdb

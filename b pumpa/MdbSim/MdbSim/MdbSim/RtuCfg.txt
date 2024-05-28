@@ -1,0 +1,7 @@
+STA 13
+TCP 502
+
+
+HR_INT 1 1000 0 0      1000 500 AO @N1
+DO_REG 1 2000 0 0      1 0 DO @V1 
+DO_REG 3 3000 0 0      1 0 DO @Pumpe 
